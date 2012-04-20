@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iptc>
+	<Label>Min bild.</Label>
+	<Copyright>Copyright, Fredrik Persson, 2012. All rights reserved.</Copyright>
+	<Artist>Fredrik Persson</Artist>
+	<Street>Barstreet</Street>
+	<PostalCode>111 11</PostalCode>
+	<CityAdress>Footown</CityAdress>
+	<Country>Sweden</Country>
+	<Email>fredrik.persson@foobar.com</Email>
+	<Webpage>http://example.com/photos</Webpage>
+</iptc>

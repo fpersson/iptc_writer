@@ -1,0 +1,12 @@
+*.so
+.directory
+.kdev*
+*~
+CMakeFiles
+Makefile
+*.kdev*
+*cmake_install.cmake
+CMakeCache.txt
+unittest/unittest
+*.user
+*.cbp
